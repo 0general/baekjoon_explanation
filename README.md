@@ -26,4 +26,4 @@
   
   ## 21.11.17 - image replacement (stopgap)
   
-  
+  ## 22.01.20 - week 17, 18 postpone
